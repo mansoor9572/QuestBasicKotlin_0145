@@ -13,3 +13,7 @@ Control Flow
 Conditional expressions & Loops
 <img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/9321f803-16bd-4256-89cf-80f1239436c9" />
 <img width="1916" height="983" alt="image" src="https://github.com/user-attachments/assets/8d0d0f94-35d0-49e2-8d21-cbe84d00e924" />
+
+Functions & Lambda expressions
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/8bfe5b96-3788-4fce-8df2-55c2f0475745" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/58065e93-3506-4b1c-903c-4ca2628a5b0e" />
